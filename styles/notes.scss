@@ -1,0 +1,56 @@
+.test-case {
+  font-family: sans-serif;
+
+  .callout {
+    color: #ED3B43;
+  }
+}
+
+.container {
+  text-align: center;
+  margin: 2% 5% 0 8%;
+  width: 80%;
+}
+
+.panel-info {
+  margin: 0;
+  background-color: #bce8f1;
+}
+
+textarea {
+  width: 100%;
+}
+
+  textarea.note-content {
+    height: 60%;
+  }
+
+.boxsizingBorder {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.divider {
+  border: 1px solid grey;
+}
+
+.notes-list {
+  list-style-type: none;
+  display: inline;
+}
+
+.notes-list ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+ul li:after {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 100%;
+    margin: 10px;
+    background: black;
+}

@@ -18,11 +18,4 @@ Fire up `webpack` in a separate terminal window, to allow it to continuously bui
 webpack --config webpack.config.js --watch --colors
 ```
 
-To see your current app, point your browser of choice to the file URL of the `index.html` file in this project. Example:
-```
-file:///Users/hagrid/projects/notes_base/index.html
-```
-
-And you're off :)
-# Browser-based-Notes-App
-# Browser-based-Notes-App
+To see your current app, open `index.html` from the source folder.
